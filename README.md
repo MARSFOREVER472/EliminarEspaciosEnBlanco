@@ -4,4 +4,4 @@
 
 ### **_Validación de formularios en Javascript:_**
 
-- **_Cómo eliminar/remover los espacios en blanco con Javascript!_**
+- **_Cómo eliminar y/o remover los espacios en blanco con Javascript!_**
