@@ -10,4 +10,4 @@
 
 - **_Aprende a quitar y/o borrar los espacios en blanco de una cadena de texto (string) con Javascript!_**
 
-- Ejemplos de programas creados en Javascript.
+- _Ejemplos de programas creados en Javascript._
