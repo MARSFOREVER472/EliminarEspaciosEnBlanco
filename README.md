@@ -12,4 +12,4 @@
 
 - **_Ejemplos de programas creados en Javascript._**
 
-- **_Una de las tareas más habituales a la hora de manipular y/o validar los datos introducidos por los usuarios en un formulario de datos es la de remover o eliminar los espacios en blanco de una Cadena de Caracteres (```string```)._**
+- **_Una de las tareas más habituales a la hora de manipular y/o validar los datos introducidos por los usuarios en un formulario de datos es la de remover y/o eliminar los espacios en blanco de una Cadena de Caracteres (```string```)._**
