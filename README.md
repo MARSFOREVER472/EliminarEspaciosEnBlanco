@@ -8,4 +8,4 @@
 
 - **_Cómo validar un formulario o campo de datos en Javascript!_**
 
-- _Aprende a quitar/borrar los espacios en blanco de una cadena de texto (string) con Javascript!_
+- **_Aprende a quitar/borrar los espacios en blanco de una cadena de texto (string) con Javascript!_**
