@@ -9,4 +9,5 @@
 - **_Cómo validar un formulario o campo de datos en Javascript!_**
 
 - **_Aprende a quitar y/o borrar los espacios en blanco de una cadena de texto (string) con Javascript!_**
+
 Ejemplos de programas creados en Javascript
