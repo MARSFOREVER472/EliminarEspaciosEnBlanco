@@ -7,17 +7,51 @@
 </head>
 <body>
 
-    <h2>Eliminar espacios en blanco en JavaScript: </h2>
+    <h1>Cómo Eliminar espacios en blanco en JavaScript:</h1>
 
-    <h2>trim()</h2>
+    <h2>// Función 1: Usando el "trim()":</h2>
 
-    <h2>trimStart()</h2>
+    <h2>// let userInput = prompt("Enter your text here:");</h2>
 
-    <h2>trimEnd()</h2>
+    <h2>// console.log(userInput.trim());</h2>
 
-    <h2>trimLeft()</h2>
+    <h2>let miVariable = "       Hello Internet!!!       ";</h2>
 
-    <h2>trimRight()</h2>
+    <h2>// console.log(miVariable);</h2>
+
+    <h2>console.log(miVariable.trim());</h2>
+
+    <h2>// Función 2: Usando el "trimStart()":</h2>
+
+    <h2>console.log(miVariable.trimStart());</h2>
+
+    <h2>// NOTA: ESTA FUNCIÓN ELIMINA LOS ESPACIOS EN BLANCO QUE EXISTAN AL PRINCIPIO DE LOS DATOS!</h2>
+
+    <h2>// Función 3: Usando el "trimEnd()":</h2>
+
+    <h2>// let userInput2 = prompt("Enter your text here:");</h2>
+
+    <h2>console.log(miVariable.trimEnd());</h2>
+
+    <h2>//        Hello Youtube!</h2>
+
+    <h2>// NOTA: ESTA FUNCIÓN ELIMINA LOS ESPACIOS EN BLANCO QUE EXISTAN AL FINAL DE LOS DATOS!</h2>
+
+    <h2>// P.D.: HA ELIMINADO LOS ESPACIOS EN BLANCO AL FINAL, PERO NO ELIMINA LOS ESPACIOS EN BLANCO QUE EXISTEN AL PRINCIPIO!</h2>
+
+    <h2>// Función 4: Usando el "trimLeft()":</h2>
+
+    <h2>console.log(miVariable.trimLeft());</h2>
+
+    <h2>// NOTA: ESTA FUNCIÓN ELIMINA LOS ESPACIOS EN BLANCO QUE EXISTAN AL PRINCIPIO DE LOS DATOS!</h2>
+
+    <h2>// Función 5: Usando el "trimRight()":</h2>
+
+    <h2>console.log(miVariable.trimRight());</h2>
+
+    <h2>// Y SI LO COMBINAMOS CON UNA DE LAS 2 FUNCIONES Y QUE ALGO PUEDA RESULTAR?...</h2>
+
+    <h2>console.log(miVariable.trimStart().trimEnd());</h2>
 
     <script src="script.js"></script>
     
